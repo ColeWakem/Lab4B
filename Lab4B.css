@@ -35,9 +35,11 @@
 #second{
   color: red;
   margin: 25;
+  font-size: 3.0em;
 }
 
 #third{
+  font-size: 3.0em;
   color: rgb(223, 174, 89);
   margin-top: 30px;
   margin-right: 110px;
