@@ -33,12 +33,14 @@
   margin-right: 100px;
   margin-bottom: 5%;
   margin-left: 5%;
+  padding: 0;
 }
 
 #second{
   color: red;
   font-size: 3.0em;
   border: 3px dashed purple;
+  padding: 0;
 }
 
 #third{
@@ -48,5 +50,5 @@
   margin-right: 110px;
   margin-bottom: 0%;
   margin-left: 0%;
-  padding-top: 50px;
+  padding: 0;
 }
