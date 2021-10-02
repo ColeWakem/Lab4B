@@ -22,7 +22,7 @@
 }
 
 #bborder2{
-  margin: 50px;
+  margin: 5px;
   border: 3px dashed purple;
 }
 
@@ -33,7 +33,7 @@
   margin-right: 135px;
   margin-bottom: 2%;
   margin-left: 43%;
-  padding: 0;
+  padding: 50;
 }
 
 #second{
