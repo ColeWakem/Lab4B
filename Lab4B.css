@@ -35,6 +35,7 @@
 #second{
   color: red;
   font-size: 3.0em;
+  vertical-align: super;
   border: 3px dashed purple;
   padding: 0;
 }
