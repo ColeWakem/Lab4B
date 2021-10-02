@@ -27,7 +27,7 @@
   margin-top: 30px;
   margin-right: 100px;
   margin-bottom: 0%;
-  margin-left: 0%;
+  margin-left: 5%;
   padding-top: : 50px;
   border: 3px dashed purple;
 }
@@ -36,6 +36,6 @@
   color: red;
   margin-top: 10px;
   margin-right: 10px;
-  margin-bottom: 5%;
-  margin-left: 5%;
+  margin-bottom: 0%;
+  margin-left: 0%;
 }
