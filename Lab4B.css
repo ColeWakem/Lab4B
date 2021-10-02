@@ -47,3 +47,30 @@
   margin-left: 0%;
   padding: 0;
 }
+
+#bborder3{
+  margin: 5px;
+}
+
+#first2{
+  color: purple;
+  font-size: 3.0em;
+  margin-top: 275px;
+}
+
+#second2{
+  color: yellow;
+  font-size: 3.0em;
+  vertical-align: super;
+  padding-top: 50px;
+}
+
+#third2{
+  font-size: 3.0em;
+  color: purple;
+  margin-top: 30px;
+  margin-right: 110px;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  padding: 0;
+}
