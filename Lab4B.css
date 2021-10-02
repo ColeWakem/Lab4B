@@ -24,4 +24,10 @@
 #first{
   color: rgb(223, 174, 89);
   font-size: 3.0em;
+  margin-top: 25px;
+}
+
+#second{
+  color: red;
+  font-size: 3.0em;
 }
