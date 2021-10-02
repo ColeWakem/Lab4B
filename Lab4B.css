@@ -54,22 +54,26 @@
 
 #first2{
   color: purple;
-  font-size: 3.0em;
+  font-size: 0.5em;
   margin-top: 275px;
+  margin-top: 30px;
+  margin-right: 0px;
+  margin-bottom: 0%;
+  margin-left: 95%;
 }
 
 #second2{
   color: yellow;
-  font-size: 3.0em;
-  vertical-align: super;
+  font-size: 0.5em;
+  font-style: italic;
   padding-top: 50px;
 }
 
 #third2{
-  font-size: 3.0em;
+  font-size: 0.5em;
   color: purple;
   margin-top: 30px;
-  margin-right: 110px;
+  margin-right: 0px;
   margin-bottom: 0%;
   margin-left: 0%;
   padding: 0;
