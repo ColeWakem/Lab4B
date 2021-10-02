@@ -24,9 +24,17 @@
 #first{
   color: rgb(223, 174, 89);
   font-size: 3.0em;
+  margin-top: 25px;
+  margin-right: 0px;
+  margin-bottom: 0%;
+  margin-left: 0%;
 }
 
 span{
   color: red;
   line-height: 0.5;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0%;
+  margin-left: 0%;
 }
